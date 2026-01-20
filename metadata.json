@@ -1,0 +1,8 @@
+{
+  "name": "RHIVE - Project Management v2",
+  "description": "A comprehensive project management tool featuring data grids, smart chat, and AI-powered video conferencing with real-time transcription.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
